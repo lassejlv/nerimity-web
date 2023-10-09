@@ -50,7 +50,12 @@ export const languages = {
     name: "Brazilian Portuguese",
     emoji: "🇧🇷",
     contributors: ["https://github.com/Jerkycat"],
-  }
+  },
+   "da-dk": {
+    name: "Danish",
+    emoji: "🇩🇰",
+    contributors: ["https://github.com/lassejlv"],
+  },
 }
 
 export function getCurrentLanguage() {
